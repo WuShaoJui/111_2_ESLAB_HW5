@@ -1,9 +1,7 @@
-# PwmOut example
+# 111_2_ESLAB_HW5
 
-This example shows how to use PwmOut to modulate LED blinking.
+Team members: 吳紹睿(b08901113), 林家弘(b08901112)
 
-**Note**: Set the cycle time. Then set the duty cycle using either a relative time period with the `write()` function or an absolute time period using the `pulsewidth()` function.
+PWM : 0.05 second period, 50% duty cycle
 
-
-MIRRORED FROM MASTER EXAMPLE SNIPPETS REPOSITORY: mbed-os-examples-docs_only.
-ANY CHANGES MADE DIRECTLY TO THIS REPOSITORY WILL BE AUTOMATICALLY OVERWRITTEN.
+STM32L475 output port : PWM_OUT(D9)
