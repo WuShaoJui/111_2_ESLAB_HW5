@@ -7,3 +7,5 @@ Use PwmOut to modulate LED blinking.
 PWM : 0.05 second period, 50% duty cycle
 
 STM32L475 output port : PWM_OUT(D9)
+
+Ref : https://github.com/ARMmbed/mbed-os-snippet-PwmOut_ex_3
